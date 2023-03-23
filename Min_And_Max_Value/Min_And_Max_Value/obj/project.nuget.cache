@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IcDDmsLiLllrmQgdZ6qQYJYjgoaqevEdaCMowWhhQOqIUO10HfgfDDJZZAZj+NudjUWs2DP6O13wxysNwu5e4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Algoritimos\\Min_And_Max_Value\\Min_And_Max_Value\\Min_And_Max_Value.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Heber Gustavo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
